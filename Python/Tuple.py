@@ -1,0 +1,5 @@
+marks=("shree","Kavi","Pavani","Sonalika","shree")
+print(marks.count("shree"))
+print(marks.index("Pavani"))
+print(len(marks))
+print(marks[1:])

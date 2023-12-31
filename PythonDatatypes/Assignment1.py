@@ -1,0 +1,10 @@
+print(4 * (6 + 5))
+print(4 * 6 + 5)
+print(4 + 6 * 5)
+print(type(3 + 1.5 + 4))
+s = 'hello'
+print(s[1])
+print(s[-1])
+print(s[4])
+print(s[::-1])
+print(s[0:])

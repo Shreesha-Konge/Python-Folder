@@ -1,0 +1,13 @@
+list1=[1,9,6,4,7,8,2]
+list2=['a','i','u','e','s','b']
+list2.sort()
+print(list2)
+list1.sort()
+num1=list1
+print(num1)
+list1.reverse()
+num2=list1
+print(num2)
+list2.reverse()
+print(list2)
+print([1,'Two',3,4])

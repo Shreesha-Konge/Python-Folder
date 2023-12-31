@@ -1,0 +1,8 @@
+name=input('Enter your name please :')
+print(name)
+number=input('Fav number : ')
+print(number)
+number1=input('Lucky number : ')
+print(number1)
+res=int(number) + int(number1)
+print(res)

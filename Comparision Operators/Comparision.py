@@ -1,0 +1,7 @@
+print(2>3 and 3>4)
+print(2>3 or 5>4)
+print(5==5 and 4==4)
+print(5==5 or 5!=5)
+print(1!=2)
+print(not 1==2)
+print(not 1==1)

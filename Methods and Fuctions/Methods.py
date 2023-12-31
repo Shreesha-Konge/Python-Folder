@@ -1,0 +1,9 @@
+mylist=[1,2,3,4,5]
+print(mylist.pop())
+print(mylist)
+mylist.append(5)
+print(mylist)
+mylist.insert(0,3)
+print(mylist)
+mylist.sort()
+print(mylist)
